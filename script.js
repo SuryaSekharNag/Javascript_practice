@@ -8,7 +8,7 @@
 // console.log("a * b = ",a * b);
 // console.log("a / b = ",a / b);
 // console.log("a % b = ",a % b); // modulus use for remainder 
-console.log("a ** b = ",a ** b); // double  astric use for power values
+//console.log("a ** b = ",a ** b); // double  astric use for power values
 
 // unary operator
 
