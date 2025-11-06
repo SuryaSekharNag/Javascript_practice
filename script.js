@@ -155,7 +155,7 @@ else{
 
 // II. Grading System 
 
-let score = 100;
+/*let score = 100;
 
 if(score >= 90 && score <=100){
     console.log(score,"Grade A");
@@ -170,5 +170,9 @@ if(score >= 90 && score <=100){
 }
 if(score >= 30 && score <=39){
     console.log(score,"Grade F");
-} 
+} */
+
+
+
+
 
